@@ -9,7 +9,7 @@
     <a href="<?php echo stalker\library\Fw\Vital::getUrl('Login','logoff'); ?>" 
     data-transition="pop" data-ajax='false'
     class="ui-btn-right ui-btn ui-btn-inline ui-mini ui-corner-all ui-btn-icon-left ui-icon-delete">Sair do Sistema</a>
-		
+
 </div>
 
 <div align="center"><h1>Bem Vindo!!</h1>
@@ -17,3 +17,4 @@
     <img src="public/images/ker.png">
 
 </div>
+<?php ?>
